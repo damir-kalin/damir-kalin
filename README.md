@@ -1,5 +1,7 @@
 ## Hi there, I`m Damir 👋
-### I'm an aspiring data engineer 
+### I'm data engineer 👨‍💻
+Email 📫: sibgatov.damir@mail.ru
+tg : [@damir_kalin](https://t.me/damir_kalin)
 
 <!--
 **damir-kalin/damir-kalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
