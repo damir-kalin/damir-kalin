@@ -1,5 +1,5 @@
-## Hi there, I`m Damir 👋
-### I'm data engineer 👨‍💻
+## I'm Damir, data engineer. 👨‍💻
+###  Working with data inspires me because it allows me to look at the world from a mathematical point of view and see relationships where they are not obvious.
 Email 📫: sibgatov.damir@mail.ru
 tg : [@damir_kalin](https://t.me/damir_kalin)
 
