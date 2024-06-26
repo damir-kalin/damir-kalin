@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I`m Damir 👋
+### I'm an aspiring data engineer 
 
 <!--
 **damir-kalin/damir-kalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
